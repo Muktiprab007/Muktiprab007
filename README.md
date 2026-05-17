@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghvc/?username=USERNAME_KAMU&color=blue)
+![Profile Views](https://komarev.com/ghvc/?username=Muktiprab007&color=blue)
 
 <!--
 **Muktiprab007/Muktiprab007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
